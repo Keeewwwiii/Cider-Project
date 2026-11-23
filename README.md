@@ -21,7 +21,7 @@ Cider is a operating system based on Ubuntu(but you don't ever use Ubuntu). Let 
 
 ### Prerequisites
 - A computer (Raspberry Pi, PC, Mac etc.)
-- A victum computer (Raspberry Pi, PC, Mac, Chromebook etc.)
+- A victim computer (Raspberry Pi, PC, Mac, Chromebook etc.)
 - Cider builder (or you could build it yourself, or use one prebuilt)
 - A USB drive or SD card 8 GB + ISO requierd size (for installation)
 
